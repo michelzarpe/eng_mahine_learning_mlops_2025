@@ -1,0 +1,10 @@
+# Estudo de Caso 1 - Testando Vibe Coding com ChatGPT Para Construir Um Modelo de Deep Learning
+
+
+O que é Deep Learning em Inteligência Artificial?
+
+Crie, em Python, um modelo de Deep Learning básico, mas funcional. Crie dados fictícios para suportar o exemplo. Execute o script e apresente o resultado.
+
+Crie, em Python, um modelo de Deep Learning intermediário, mas funcional, com foco na otimização de hiperparâmetros do modelo. Crie dados fictícios para suportar o exemplo. Execute o script e apresente o resultado.
+
+Crie, em Python, um modelo de Deep Learning avançado, mas funcional, com foco em Visão Computacional para detecção de objetos em imagens. O script deve aplicar técnicas de pré-processamento de imagens, redimensionamento de imagens e otimização de hiperparâmetros do modelo. O script deve testar diferentes funções de ativação a fim de garantir que o modelo tenha a melhor performance possível. Use dados disponíveis publicamente. Execute o script e apresente o resultado (se possível).
