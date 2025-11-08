@@ -1,0 +1,26 @@
+# Projeto 7 - Geração de Sequência de Proteínas com Modelo de Transformadores
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name dsamlbiop7 python=3.13
+
+# Ative o ambiente:
+
+conda activate dsamlbiop7 (ou: source activate dsamlbiop7)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute o jupyter notebook
+
+jupyter notebook
+
+# Acesse o jupyter pelo seu navegador padrão.
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name dsamlbiop7 --all
+

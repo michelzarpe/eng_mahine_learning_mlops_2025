@@ -1,0 +1,28 @@
+# Projeto 5 - Machine Learning Para Prever Resistência a Antibióticos
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name dsamlbiop5 python=3.13
+
+# Ative o ambiente:
+
+conda activate dsamlbiop5 (ou: source activate dsamlbiop5)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute o jupyter notebook
+
+jupyter notebook
+
+# Acesse o jupyter pelo seu navegador padrão.
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name dsamlbiop5 --all
+
+
+
